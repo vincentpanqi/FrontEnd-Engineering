@@ -12,3 +12,6 @@
 前端安全：前端安全防范的工程化方法，比如xss、csrf等
 系统测试：前端系统测试的工程化方法
 ```
+##### 参考文献
+
+1、https://github.com/fouber/blog/blob/master/201505/01.md
